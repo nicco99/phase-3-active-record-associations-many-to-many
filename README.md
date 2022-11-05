@@ -8,7 +8,7 @@
 ## Introduction
 
 In the previous lesson, we saw how to create a **one-to-many** association
-between two models using Active Record by following certain naming conventions
+between two models using Active Record by following certain naming conventions'm
 and using the right foreign key on our tables when generating the migrations.
 
 In the SQL section, we learned about one other kind of relationship: the
